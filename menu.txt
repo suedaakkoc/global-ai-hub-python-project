@@ -1,0 +1,11 @@
+Choose a pizza type:
+1-Margherita Pizza
+2-Pepperoni Pizza
+3-Hawaiian Pizza
+4-Veggie Pizza
+####
+Choose a sauce:
+1-Garlic Sauce
+2-Ranch Sauce
+3-BBQ Sauce
+***THANKS FOR ORDERING***

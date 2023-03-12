@@ -1,0 +1,4 @@
+{'Name': 'test1', 'TC no': '123456789', 'Pizza type': 'Margherita Pizza', 'Pizza sauce': 'Garlic Sauce', 'Total price': 15.25, 'Credit card no': '1234567890123456', 'Credit card password': 'test1pass'}
+{'Name': 'test2', 'TC no': '224927402', 'Pizza type': 'Veggie Pizza', 'Pizza sauce': 'Ranch Sauce', 'Total price': 18.0, 'Credit card no': '1394003724089', 'Credit card password': 'test2pass'}
+{'Name': 'test3', 'TC no': '02934872394', 'Pizza type': 'Hawaiian Pizza', 'Pizza sauce': 'Garlic Sauce', 'Total price': 25.45, 'Credit card no': '12039483289472', 'Credit card password': 'test3pass'}
+{'Name': 'adddate', 'TC no': '3478230', 'Pizza type': 'Pepperoni Pizza', 'Pizza sauce': 'Garlic Sauce', 'Total price': 20.75, 'Credit card no': '29873401483', 'Credit card password': 'adddatepass', 'Date': datetime.datetime(2023, 3, 12, 3, 52, 41, 675219)}
